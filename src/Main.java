@@ -1,3 +1,9 @@
+/*
+Ромашов Максим 2024
+ */
+
+
+
 import market.Human;
 import market.Market;
 
